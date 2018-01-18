@@ -3,7 +3,7 @@ Hackaton - Cookies
 
 *Pseudocode Cookie-clikeur by Steeve, Marie-Ange, Antoine, Laureen et Syl*
 
-> Accès au jeu cookie-clikeur via interface web
+> Accès au jeu [cookie-clikeur](http://orteil.dashnet.org/cookieclicker/) via interface web 
 
 __DEBUT__
 
